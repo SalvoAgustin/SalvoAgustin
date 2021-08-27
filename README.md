@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SalvoAgustin
 - 👀 I’m interested in AI, all bockchain repos, machile learning models, electronic - blockchain - ai powered systems
 - 🌱 I’m currently learning MERN workflow
-- 💞️ I’m looking to collaborate on ... all AI - Blockchain proyects as possible
 - 📫 How to reach me ... chat with me at my linkedin https://www.linkedin.com/in/agustin-leonel-salvo-a409a5177/
 
 <!---
